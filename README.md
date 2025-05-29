@@ -9,7 +9,7 @@ This is a command-line Python application that allows users to:
 
 ## 🚀 Features
 
-- **Quiz Mode**: Choose from multiple quiz types (e.g., geography, history — defined in `QUIZ_TYPES`) and test your knowledge.
+- **Quiz Mode**: Choose from multiple quiz types (e.g., mod 7 calculation, floor 4, year & month codes — defined in `QUIZ_TYPES`) and drill pieces of weekday calculation formula + full formula.
 - **Date Calculation Mode**: Input any date (mm/dd/yyyy) and the app will tell you what day of the week it was.
 - **User-Friendly CLI**: Interactive command-line prompts with input validation.
 
